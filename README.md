@@ -17,3 +17,16 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
+
+## Description 
+
+The team profile generator presents a menu with options to add a certain role and gives the information pertaining to that role and the team they are on
+
+## Technologies 
+
+Technologies used for this project are HTML, CSS, JavaScript, Inquirer Package 
+
+## Licenses 
+
+MIT License 
+
