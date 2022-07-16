@@ -30,3 +30,5 @@ Technologies used for this project are HTML, CSS, JavaScript, Inquirer Package
 
 MIT License 
 
+## Test Walkthrough Link 
+https://drive.google.com/file/d/1A4P-zoFvlcoBoW9kXo7UzzWfN37Zg2Ad/view
